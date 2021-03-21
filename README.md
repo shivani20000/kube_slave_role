@@ -1,8 +1,6 @@
 # kube_slave_role
 
 
-# K8s_slave_role
-
 # Role Name
 A brief description of the role goes here.
 
